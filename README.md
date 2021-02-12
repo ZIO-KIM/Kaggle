@@ -1,2 +1,2 @@
 # Kaggle
-Notebooks for Kaggle competitions / courses
+Notebooks for Kaggle competitions / courses 
